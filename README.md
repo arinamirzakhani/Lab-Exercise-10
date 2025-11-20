@@ -39,14 +39,6 @@ Open:
 
 http://localhost:5173
 
-🔹 Screenshots
-
-Add your screenshots here:
-
-Login page
-
-Logged-in profile page
-
 🔹 Summary
 
 This project demonstrates how Redux manages global state and how a JWT-like token can be used to represent authentication. It provides a simple and clear example of how actions, reducers, and state updates work together in a React application.
